@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MultithreadBatchProcessorApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MultithreadBatchProcessorApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(MultithreadBatchProcessorApplication.class, args);
+    }
 
 }
